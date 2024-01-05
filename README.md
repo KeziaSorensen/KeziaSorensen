@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KeziaSorensen
+- 💞️ I'm a grade 12 student currently and am going to be pursuing computer science in university in the 2024-2025 school year
+- 🌱 I’m currently learning Java in school, and I've learned some Python and Visual Basic independently
+- 📫 I can be contacted at kez.sor@gmail.com, or https://www.linkedin.com/in/kezia-sorensen
